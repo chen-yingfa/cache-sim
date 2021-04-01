@@ -1,0 +1,5 @@
+trace id	cache space	replace space	access count	miss rate	write mem count	read mem count
+1	131072	2048	507700	4.8	6595	24500
+2	131072	2048	544514	1.2	0	6627
+3	131072	2048	501468	53.1	149457	266223
+4	131072	2048	507441	1.8	0	8901

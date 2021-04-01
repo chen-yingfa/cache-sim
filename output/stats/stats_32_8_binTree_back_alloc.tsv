@@ -1,0 +1,5 @@
+trace id	cache space	replace space	access count	miss rate	write mem count	read mem count	read miss
+1	28672	512	507700	1.8	5041	9263	1542
+2	28672	512	544514	0.3	0	1668	851
+3	28672	512	501468	9.6	34908	48287	9818
+4	28672	512	507441	0.8	509	4057	2595
